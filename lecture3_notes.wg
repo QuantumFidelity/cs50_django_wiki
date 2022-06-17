@@ -1,0 +1,336 @@
+WordGrinder dumpfile v3: this is a text file; diff me!
+.addons.autosave.enabled: false
+.addons.autosave.pattern: "%F.autosave.%T.wg"
+.addons.autosave.period: 10
+.addons.htmlexport.bold_off: "</b>"
+.addons.htmlexport.bold_on: "<b>"
+.addons.htmlexport.italic_off: "</i>"
+.addons.htmlexport.italic_on: "<i>"
+.addons.htmlexport.underline_off: "</u>"
+.addons.htmlexport.underline_on: "<u>"
+.addons.pagecount.enabled: false
+.addons.pagecount.wordsperpage: 250
+.addons.scrapbook.document: "Scrapbook"
+.addons.scrapbook.pattern: "Item from '%N' at %T:"
+.addons.scrapbook.timestamp: true
+.addons.smartquotes.doublequotes: false
+.addons.smartquotes.leftdouble: "“"
+.addons.smartquotes.leftsingle: "‘"
+.addons.smartquotes.notinraw: true
+.addons.smartquotes.rightdouble: "”"
+.addons.smartquotes.rightsingle: "’"
+.addons.smartquotes.singlequotes: false
+.addons.spellchecker.enabled: false
+.addons.spellchecker.usesystemdictionary: true
+.addons.spellchecker.useuserdictionary: true
+.documents.1.co: 2
+.documents.1.cp: 86
+.documents.1.cw: 56
+.documents.1.margin: 0
+.documents.1.name: "main"
+.documents.1.sticky_selection: false
+.documents.1.viewmode: 1
+.documents.1.wordcount: 1203
+.fileformat: 7.0
+.idletime: 3
+.menu.accelerators.BACKSPACE: "ZDPC"
+.menu.accelerators.DELETE: "ZDNC"
+.menu.accelerators.DOWN: "ZD"
+.menu.accelerators.EC: "^C"
+.menu.accelerators.ECadd: "^M"
+.menu.accelerators.ECfind: "^L"
+.menu.accelerators.EF: "^F"
+.menu.accelerators.EG: "^G"
+.menu.accelerators.EN: "^K"
+.menu.accelerators.END: "ZE"
+.menu.accelerators.EP: "^V"
+.menu.accelerators.ER: "^R"
+.menu.accelerators.ET: "^X"
+.menu.accelerators.Eredo: "^Y"
+.menu.accelerators.Eundo: "^Z"
+.menu.accelerators.FQ: "^Q"
+.menu.accelerators.FS: "^S"
+.menu.accelerators.HOME: "ZH"
+.menu.accelerators.LEFT: "ZL"
+.menu.accelerators.PGDN: "ZPGDN"
+.menu.accelerators.PGUP: "ZPGUP"
+.menu.accelerators.RIGHT: "ZR"
+.menu.accelerators.SB: "^B"
+.menu.accelerators.SDOWN: "ZSD"
+.menu.accelerators.SEND: "ZSE"
+.menu.accelerators.SHOME: "ZSH"
+.menu.accelerators.SI: "^I"
+.menu.accelerators.SLEFT: "ZSL"
+.menu.accelerators.SO: "^O"
+.menu.accelerators.SP: "^P"
+.menu.accelerators.SPGDN: "ZSPGDN"
+.menu.accelerators.SPGUP: "ZSPGUP"
+.menu.accelerators.SRIGHT: "ZSR"
+.menu.accelerators.SU: "^U"
+.menu.accelerators.SUP: "ZSU"
+.menu.accelerators.S^DOWN: "ZSNP"
+.menu.accelerators.S^LEFT: "ZSWL"
+.menu.accelerators.S^PGDN: "ZSED"
+.menu.accelerators.S^PGUP: "ZSBD"
+.menu.accelerators.S^RIGHT: "ZSWR"
+.menu.accelerators.S^UP: "ZSPP"
+.menu.accelerators.UP: "ZU"
+.menu.accelerators.ZBD: "^PGUP"
+.menu.accelerators.ZD: "DOWN"
+.menu.accelerators.ZDNC: "DELETE"
+.menu.accelerators.ZDPC: "BACKSPACE"
+.menu.accelerators.ZDW: "^E"
+.menu.accelerators.ZE: "END"
+.menu.accelerators.ZED: "^PGDN"
+.menu.accelerators.ZH: "HOME"
+.menu.accelerators.ZL: "LEFT"
+.menu.accelerators.ZM: "^@"
+.menu.accelerators.ZNP: "^DOWN"
+.menu.accelerators.ZPGDN: "PGDN"
+.menu.accelerators.ZPGUP: "PGUP"
+.menu.accelerators.ZPP: "^UP"
+.menu.accelerators.ZR: "RIGHT"
+.menu.accelerators.ZSBD: "S^PGUP"
+.menu.accelerators.ZSD: "SDOWN"
+.menu.accelerators.ZSE: "SEND"
+.menu.accelerators.ZSED: "S^PGDN"
+.menu.accelerators.ZSH: "SHOME"
+.menu.accelerators.ZSL: "SLEFT"
+.menu.accelerators.ZSNP: "S^DOWN"
+.menu.accelerators.ZSPGDN: "SPGDN"
+.menu.accelerators.ZSPGUP: "SPGUP"
+.menu.accelerators.ZSPP: "S^UP"
+.menu.accelerators.ZSR: "SRIGHT"
+.menu.accelerators.ZSU: "SUP"
+.menu.accelerators.ZSW: "^W"
+.menu.accelerators.ZSWL: "S^LEFT"
+.menu.accelerators.ZSWR: "S^RIGHT"
+.menu.accelerators.ZU: "UP"
+.menu.accelerators.ZWL: "^LEFT"
+.menu.accelerators.ZWR: "^RIGHT"
+.menu.accelerators.^@: "ZM"
+.menu.accelerators.^B: "SB"
+.menu.accelerators.^C: "EC"
+.menu.accelerators.^DOWN: "ZNP"
+.menu.accelerators.^E: "ZDW"
+.menu.accelerators.^F: "EF"
+.menu.accelerators.^G: "EG"
+.menu.accelerators.^I: "SI"
+.menu.accelerators.^K: "EN"
+.menu.accelerators.^L: "ECfind"
+.menu.accelerators.^LEFT: "ZWL"
+.menu.accelerators.^M: "ECadd"
+.menu.accelerators.^O: "SO"
+.menu.accelerators.^P: "SP"
+.menu.accelerators.^PGDN: "ZED"
+.menu.accelerators.^PGUP: "ZBD"
+.menu.accelerators.^Q: "FQ"
+.menu.accelerators.^R: "ER"
+.menu.accelerators.^RIGHT: "ZWR"
+.menu.accelerators.^S: "FS"
+.menu.accelerators.^U: "SU"
+.menu.accelerators.^UP: "ZPP"
+.menu.accelerators.^V: "EP"
+.menu.accelerators.^W: "ZSW"
+.menu.accelerators.^X: "ET"
+.menu.accelerators.^Y: "Eredo"
+.menu.accelerators.^Z: "Eundo"
+.name: "/home/mosfet/Documents/Academic/Harvard Web Design Framework Fundamentals/Django/lecture3_notes.wg"
+.statusbar: true
+.styles.1.above: 0
+.styles.1.below: 0
+.styles.1.desc: "Plain text"
+.styles.1.firstindent: 4
+.styles.1.name: "P"
+.styles.2.above: 3
+.styles.2.below: 1
+.styles.2.desc: "Heading #1"
+.styles.2.name: "H1"
+.styles.3.above: 2
+.styles.3.below: 1
+.styles.3.desc: "Heading #2"
+.styles.3.name: "H2"
+.styles.4.above: 1
+.styles.4.below: 1
+.styles.4.desc: "Heading #3"
+.styles.4.name: "H3"
+.styles.5.above: 1
+.styles.5.below: 1
+.styles.5.desc: "Heading #4"
+.styles.5.name: "H4"
+.styles.6.above: 1
+.styles.6.below: 1
+.styles.6.desc: "Indented text"
+.styles.6.indent: 4
+.styles.6.name: "Q"
+.styles.7.above: 1
+.styles.7.below: 1
+.styles.7.bullet: "-"
+.styles.7.desc: "List item with bullet"
+.styles.7.indent: 4
+.styles.7.name: "LB"
+.styles.8.above: 1
+.styles.8.below: 1
+.styles.8.desc: "List item without bullet"
+.styles.8.indent: 4
+.styles.8.name: "L"
+.styles.9.above: 0
+.styles.9.below: 0
+.styles.9.desc: "Indented text, run together"
+.styles.9.indent: 4
+.styles.9.name: "V"
+.styles.10.above: 0
+.styles.10.below: 0
+.styles.10.desc: "Preformatted text"
+.styles.10.indent: 4
+.styles.10.name: "PRE"
+.styles.11.above: 0
+.styles.11.below: 0
+.styles.11.desc: "Raw data exported to output file"
+.styles.11.indent: 0
+.styles.11.name: "RAW"
+.styles.H1.above: 3
+.styles.H1.below: 1
+.styles.H1.desc: "Heading #1"
+.styles.H1.name: "H1"
+.styles.H2.above: 2
+.styles.H2.below: 1
+.styles.H2.desc: "Heading #2"
+.styles.H2.name: "H2"
+.styles.H3.above: 1
+.styles.H3.below: 1
+.styles.H3.desc: "Heading #3"
+.styles.H3.name: "H3"
+.styles.H4.above: 1
+.styles.H4.below: 1
+.styles.H4.desc: "Heading #4"
+.styles.H4.name: "H4"
+.styles.L.above: 1
+.styles.L.below: 1
+.styles.L.desc: "List item without bullet"
+.styles.L.indent: 4
+.styles.L.name: "L"
+.styles.LB.above: 1
+.styles.LB.below: 1
+.styles.LB.bullet: "-"
+.styles.LB.desc: "List item with bullet"
+.styles.LB.indent: 4
+.styles.LB.name: "LB"
+.styles.P.above: 0
+.styles.P.below: 0
+.styles.P.desc: "Plain text"
+.styles.P.firstindent: 4
+.styles.P.name: "P"
+.styles.PRE.above: 0
+.styles.PRE.below: 0
+.styles.PRE.desc: "Preformatted text"
+.styles.PRE.indent: 4
+.styles.PRE.name: "PRE"
+.styles.Q.above: 1
+.styles.Q.below: 1
+.styles.Q.desc: "Indented text"
+.styles.Q.indent: 4
+.styles.Q.name: "Q"
+.styles.RAW.above: 0
+.styles.RAW.below: 0
+.styles.RAW.desc: "Raw data exported to output file"
+.styles.RAW.indent: 0
+.styles.RAW.name: "RAW"
+.styles.V.above: 0
+.styles.V.below: 0
+.styles.V.desc: "Indented text, run together"
+.styles.V.indent: 4
+.styles.V.name: "V"
+.current: 1
+#1
+P Ref URL: https://cs50.harvard.edu/web/2020/notes/3/
+P 
+P Lecture 3 Notes, Django
+P 
+P Table of Contents
+P Introduction 
+P Web Applications
+P HTTP
+P Django 
+P Routes
+P Templates
+P  - conditionals
+P  - stypling
+P Tasks
+P Forms
+P  - Django Forms
+P Sessions
+P 
+P Introduction 
+P - So far, we've discussed how to build simple web pages using HTML and CSS, and how to use Git and GitHub in order to keep track of changes to our code and collaborate with others. We also familiarized outselves with the Python programming language
+P - Today we'll work on using Python's Django framework in order to create dynamic applications. 
+P 
+P Web Applications
+P So far, all of the web applications we've written have been static. This means that every single time we open that web page, it looks exactly the same. Many websites we visit everyday, however, change every time we visit them. If you visit the websites of New York Times of Facebook, for example, you'll most likely see different things today than you will tomorrow. For large sires like those, it would be unreasonable for employees to have to manually edit a large HTML file every time a change is made, which is where dynamic websites can be extrememly useful. A dynamic website is one that takes advantage of a programming language (such as Python) to dynamically generate HTML and CSS files. During this lecture, we'll learn how to create our first dynamic applications. 
+P 
+P Essentially we are going to create software that is running on a web server, such that clients that are going to access via their web browser can make requests to our webserver and our webserver is going to respond back with some sort of response.
+P 
+P So How does this process happen, well basically it boils down to the http protocol, also known as hyper text transfer protocol, which is the protocol for how messages are going to be sent back and forth over the internet
+P 
+P HTTP
+P hyper text transfer protocol, is a widely accepted protocol for how messages are transfered back and forth across the internet. Typically, information online is passed between a client (user) and a server. 
+P 
+P In this protocol, the client will send a request to the server, the might look something like 
+P 
+P GET HTTP/1.1
+P Host : www.example.com
+P ...
+P 
+P In the example below, GET is simply a type of request method, one of three we'll discuss in this course. The / typically indicates that we's looking for the websites home page, and the three dots indicate that we could be passing more information as well. 
+P 
+P After receiving a request, a server will then send back an HTTP response, which might look something like the one below. Such a response will incluse the HTTP version, a status code (200 means OK), a description of the content, and then some additional information. 
+P 
+P HTTP/1.1 200 OK
+P Content-Type: text/html
+P ...
+P 
+P 200 is just one of the many status codes, some of which you may have seen in the past. 
+P 200 OK
+P 301 Moved Permanently
+P 403 Forbidden
+P 404 Not Found
+P 500 Internal Server Error
+P 
+P Django
+P Django is a Python-based web framework that will allow us to write Python code that dynamically generates HTML and CSS. The advantage to using a framework like Django is that a lot of code is already written for us that we can take advantage of. 
+P - to get started, we'll have to install Django, which means you'll also have to install pip if you havn't already done so. 
+P - once you have pip installed, you can run pip3 install Django in your terminal to install Django 
+P 
+P After installing Django, we can go through the steps of creating a new Django project. 
+P 1) Run django-admin startproject PROJECT_NAME to create a number of starter files for our project. 
+P 2) Run cd PROJECT_NAME to navigate into your new project's directory. 
+P 3) Open the directory in your text editor. You'll notice that some files have been created for you. We won't need to look at most of these for now, but there are three that will be very important from the start:
+P  - manage.py is what we use to execute commands on our terminal. We won't have to edit it, but we'll use it often. 
+P  - settings.py contains some important configuration settings for our new project. There are some default settings, but we may with to change some of them from time to time. 
+P  - irls/py contains directions for where users should be routed after navigating to a certain URL.
+P Start the project by running python manage.py runserver. This will open a development server, which you can access by visiting the URL provided. This development server is being run locally on your machine, meaning other people cannot accesss your website. This should bring you to a default landing page. 
+P 
+P To run the newly created Django project, cd into the newly created django project directory and run the following command
+P 
+P python manage.py runserver
+P 
+P What we have created here is what's called a django project and in terms of the way a django project is structures, is that every django project generally consists of one of more django applications. So one django project may have multiple applications within it. 
+P 
+P If we look into out newly created django project we will see some files,
+P 
+P -  manage.py, is what we use to execute commands on our terminal. We won't have to edit it, but we'll use it often
+P - settings.py contains some important configuration settings for our new project. There are some default settings, but we may wish to change some of them from time to time
+P - urls.py contains directions for where users should be routed after navigating to a certain URL. 
+P 
+P Start the project by running python manage.py runserver This will open a development server, which you can access by visiting the URL provided. This development server is being run locally on your machine. If the install worked correct, when you visit 127.0.0.1:8000/ you should be directed to the django default landing page telling you that the server is running successfully. 
+P 
+P Next we'll have to create an application. Django projects are split into one of more applications. Most of our projects will only require one application, but larger sites can make use of this ability to split a site into multiple apps. To create an application, we run python manage.py startapp APP_NAME. This will create some additional directories and files that will be useful shortly, including views.py
+P 
+P Now we have to install our new app, To do this we go to settings.py scroll down to the list of the INSTALLED_APPS, and add the name of our new application to the list.
+P 
+P This division of applications within a project is useful when you begin to scale because you might have several different services running on your website, for example google, has google search, but they also have google images, and so on. Django makes this process easy by seperating them into their own applications and integrating them. 
+P 
+P Routes.
+P 
+P 
+.
